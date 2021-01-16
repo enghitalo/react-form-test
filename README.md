@@ -1,4 +1,4 @@
-# splash screen
+# Splash screen
 
 ![til](splash-screen.png)
 
